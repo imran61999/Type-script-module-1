@@ -1,3 +1,4 @@
+{
 // learing function
 // normal function 
 // Arrow function
@@ -22,3 +23,6 @@ const poorUser = {
 
 const arr : number[] = [9,6,34];
 const newArray: number[] = arr.map((elem: number): number => elem * elem);
+
+
+}
